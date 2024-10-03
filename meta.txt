@@ -1,0 +1,5 @@
+	sampletype
+S_2_SARS_5dpi_S70003	SARS
+S_2_mock_5dpi_S70002	MOCK
+S_3_SARS_5dpi_S69996	SARS
+S_3_mock_5dpi_S69997	MOCK
